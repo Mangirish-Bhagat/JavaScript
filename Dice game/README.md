@@ -2,5 +2,5 @@
 
 
 
-<img src="images/Capture-Web_Page.JPG">
+<img src="Capture-Web_Page.JPG">
 
